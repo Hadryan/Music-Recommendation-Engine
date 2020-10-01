@@ -1,0 +1,8 @@
+# Hide environment variables
+.env
+
+# Hide linter
+.vscode
+
+# Hide visualizations for now
+web_app\visualizations\
